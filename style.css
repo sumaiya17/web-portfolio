@@ -1,0 +1,47 @@
+body{
+    font-family: 'Roboto', sans-serif
+}
+h1{
+    font-size: 50PX;
+}
+h2{
+    font-size: 40px;
+}
+.darkblue-highlight{
+    color: blue;
+}
+p{
+    font-size: 40px;
+}
+.half-width{
+    height: 800px;
+    width: 35%;
+    float: left;
+    margin: 5%;
+    padding: 2%;  
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 15px 30px;
+    color: white;
+    border-radius: 10px;
+}
+.working-project{
+    float: left;
+    width: 24%;
+    margin: 4%;
+    padding-left: 1%; 
+    box-shadow: 10px 10px 50px gray;
+    height: 50%;
+    border-radius: 15px;
+}
+.working-project img{
+    width: 100%;
+}
+.text{
+    text-align: center;
+}
